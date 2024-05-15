@@ -1,2 +1,2 @@
 # ETicketbooking
-This GitHub project, titled "e-Ticket Booking," is my academic final year project comprehensive web application that facilitates seamless online bus ticket reservations. The frontend is built using HTML, CSS, and JavaScript, ensuring an intuitive and user-friendly interface. 
+This GitHub project, titled "e-Ticket Booking," is my academic final year project comprehensive web application that facilitates seamless online bus ticket reservations. The frontend is built using HTML, CSS, and JavaScript, ensuring an intuitive and user-friendly interface.on the backend the project employs python with flask as the web framework,providing a robust server-side structure.
